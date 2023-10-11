@@ -1,6 +1,6 @@
-# chest-menu-gen-v2
+# Chest Menu Gen v2
 
-Generiert eine .png von dem oberen Menü einer Kiste, gefüllt mit den ausgewählten items.
+Generiert eine .png von dem Menü einer Kiste, gefüllt mit den ausgewählten items.
 
 ---
 Version 2 ist da!
@@ -21,7 +21,7 @@ Requirements:
 - Python 3.11
 - Pillow (Python Library, pip install Pillow)
 - CustomTkinter (Python Library, pip install customtkinter)
-
-Ach ja, und bitte das Programm nicht irgendwo als euers veröffentlichen.
-
+- 
 Gerne Rückmeldungen zu Fehlern oder Verbesserungs-Vorschlägen geben z.B. in Issues.
+
+## Ach ja, und bitte das Programm nicht irgendwo als euers veröffentlichen.
