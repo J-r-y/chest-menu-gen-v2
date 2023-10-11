@@ -310,7 +310,7 @@ class ChestMenuGen(ctk.CTk):
         super().__init__()
         self.geometry("500x600")
         self.title("Chest Menu Generator")
-        self._set_appearance_mode("dark")
+        self._set_appearance_mode("system")
         self.grid_columnconfigure((0, 1), weight=1)
 
         self.items = self.load_item_list()
