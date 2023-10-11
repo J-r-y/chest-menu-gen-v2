@@ -21,7 +21,7 @@ Requirements:
 - Python 3.11
 - Pillow (Python Library, pip install Pillow)
 - CustomTkinter (Python Library, pip install customtkinter)
-- 
+
 Gerne Rückmeldungen zu Fehlern oder Verbesserungs-Vorschlägen geben z.B. in Issues.
 
 ## Ach ja, und bitte das Programm nicht irgendwo als euers veröffentlichen.
