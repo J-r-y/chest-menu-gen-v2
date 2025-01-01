@@ -1,11 +1,6 @@
 # Chest Menu Gen v2
 
-Generiert eine .png von dem Menü einer Kiste, gefüllt mit den ausgewählten items.
-
----
-Version 2 ist da!
----
-Es wurden einige Features hinzugefügt und es gibt eine schönere Benutzeroberfläche.
+Generiert ein Bild ( im .png Format) von dem Menü einer Kiste, gefüllt mit den ausgewählten items.
 
 Dark Mode:
 
@@ -19,8 +14,8 @@ Vor dem benutzen den unzipme Ordner unzippen.
 
 Requirements:
 - Python 3.11
-- Pillow (Python Library, pip install Pillow)
-- CustomTkinter (Python Library, pip install customtkinter)
+- Pillow (Python Library, Installation: pip install Pillow)
+- CustomTkinter (Python Library, Installation: pip install customtkinter)
 
 Gerne Rückmeldungen zu Fehlern oder Verbesserungs-Vorschlägen geben z.B. in Issues.
 
